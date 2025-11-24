@@ -1,0 +1,10 @@
+{
+    "hubert_model": "facebook/hubert-base-ls960", 
+    "best_layer": 2, 
+    "sample_rate": 16000,
+    "labels": ["andhra_pradesh", "gujrat", "jharkhand", "karnataka", "kerala", "tamil"], 
+    "split_csv": "/content/drive/MyDrive/speechproject/workspace/metadata/samples_balanced.csv", 
+    "chosen_model": "LinearSVC", 
+    "C": 2.0, 
+    "notes": "13-layer sweep using stacked .npz (fast I/O)"
+}
