@@ -14,10 +14,6 @@ packages (and their versions) are required.
 2. **Git (optional, only if you want to clone)**  
    https://git-scm.com/downloads
 
-3. **FFmpeg (recommended for audio handling on Windows)**  
-   https://ffmpeg.org/download.html  
-   Make sure `ffmpeg` is on your system `PATH`.
-
 ---
 
 ## 2. Project Files
